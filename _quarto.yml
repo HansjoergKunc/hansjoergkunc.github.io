@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - robots.txt
+
+website:
+  title: "Hansjoerg Kunc"
+  site-url: https://hansjoergkunc.github.io
+  description: "Hansjoerg Kunc - Senior Lecturer at Queen's University Belfast researching animal communication, noise pollution, and global change biology."
+  open-graph: true
+  twitter-card: true
+
+  navbar:
+    background: "#252320"
+    foreground: "#e8e4df"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Join the Lab"
+        href: join-the-lab.qmd
+      - text: "Advice for Students"
+        href: advice-for-students.qmd
+      - text: "Contact"
+        href: contact.qmd
+    pinned: true
+
+  page-footer:
+    background: "#1f1d1b"
+    foreground: "#b0aaa3"
+    center: "© 2025 Hansjoerg Kunc"
+
+format:
+  html:
+    theme:
+      dark: [darkly, custom.scss]
+    toc: false
+    page-layout: full
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">

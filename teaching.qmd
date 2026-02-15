@@ -1,0 +1,43 @@
+---
+title: ""
+pagetitle: "Teaching | Hansjoerg Kunc"
+description: "Teaching and supervision by Hansjoerg Kunc at Queen's University Belfast. Animal Behaviour, Conservation Biology, PhD and MSc supervision."
+---
+
+```{=html}
+<div class="page-wrapper">
+  <div class="author-sidebar">
+    <div class="author-avatar">
+      <img src="images/profile.jpg" alt="Hansjoerg Kunc">
+    </div>
+    <h3 class="author-name">Hansjoerg Kunc</h3>
+
+
+    <ul class="author-links">
+      <li class="location"><i class="fas fa-location-dot"></i>Belfast, UK</li>
+      <li class="institution"><i class="fas fa-building-columns"></i>Queen's University Belfast</li>
+      <li><a href="mailto:h.kunc@qub.ac.uk"><i class="fas fa-envelope"></i>Email</a></li>
+      <li><a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar"></i>Google Scholar</a></li>
+      <li><a href="https://orcid.org/0000-0000-0000-0000"><i class="ai ai-orcid"></i>ORCID</a></li>
+      <li><a href="https://www.researchgate.net/profile/Hansjoerg-Kunc"><i class="fab fa-researchgate"></i>ResearchGate</a></li>
+      <li><a href="https://github.com/hansjoergkunc"><i class="fab fa-github"></i>GitHub</a></li>
+      <li><a href="https://www.instagram.com/hansjoerg.kunc.1/"><i class="fab fa-instagram"></i>Instagram</a></li>
+    </ul>
+  </div>
+
+  <div class="main-content">
+    <h1>Teaching</h1>
+
+    <h2>Current Courses</h2>
+    <p><strong>Animal Behaviour</strong> - Undergraduate module covering principles of behavioural ecology</p>
+    <p><strong>Conservation Biology</strong> - Postgraduate module on conservation science and practice</p>
+
+    <h2>PhD Supervision</h2>
+    <p>I am currently supervising PhD students working on noise pollution, animal communication, and conservation.</p>
+    <p>If you are interested in pursuing a PhD in my lab, please <a href="contact.html">contact me</a>.</p>
+
+    <h2>MSc Projects</h2>
+    <p>I offer MSc project supervision in areas related to my research interests.</p>
+  </div>
+</div>
+```

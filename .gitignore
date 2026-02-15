@@ -1,0 +1,23 @@
+# Quarto
+/.quarto/
+/_site/
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+**/*.quarto_ipynb

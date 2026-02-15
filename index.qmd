@@ -1,0 +1,54 @@
+---
+title: ""
+pagetitle: "Hansjoerg Kunc"
+description: "Hansjoerg Kunc - Senior Lecturer at Queen's University Belfast researching animal communication, noise pollution, and meta-analysis."
+---
+
+```{=html}
+<!-- TWO-COLUMN LAYOUT -->
+<div class="page-wrapper">
+  <div class="author-sidebar">
+    <div class="author-avatar">
+      <img src="images/profile.jpg" alt="Hansjoerg Kunc">
+    </div>
+    <h3 class="author-name">Hansjoerg Kunc</h3>
+
+
+    <ul class="author-links">
+      <li class="location"><i class="fas fa-location-dot"></i>Belfast, UK</li>
+      <li class="institution"><i class="fas fa-building-columns"></i>Queen's University Belfast</li>
+      <li><a href="mailto:h.kunc@qub.ac.uk"><i class="fas fa-envelope"></i>Email</a></li>
+      <li><a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar"></i>Google Scholar</a></li>
+      <li><a href="https://orcid.org/0000-0000-0000-0000"><i class="ai ai-orcid"></i>ORCID</a></li>
+      <li><a href="https://www.researchgate.net/profile/Hansjoerg-Kunc"><i class="fab fa-researchgate"></i>ResearchGate</a></li>
+      <li><a href="https://github.com/hansjoergkunc"><i class="fab fa-github"></i>GitHub</a></li>
+      <li><a href="https://www.instagram.com/hansjoerg.kunc.1/"><i class="fab fa-instagram"></i>Instagram</a></li>
+    </ul>
+  </div>
+
+  <div class="main-content">
+
+    <h2 style="margin-top: 0;">Animal Behaviour in a Changing World</h2>
+
+    <div class="research-img research-img--left">
+      <img src="images/slideshow/slide1.jpg" alt="Animal communication research: placeholder image">
+    </div>
+    <p>We study how animals respond to the rapid environmental changes caused by human activities. A central focus of our work is <a href="research-communication.html">animal communication</a>, specifically how signals evolve, function, and adapt when the world around them changes. We are particularly interested in how <a href="research-noise.html">anthropogenic noise</a> disrupts communication and behaviour across terrestrial and aquatic systems.</p>
+
+    <div class="clear"></div>
+    <div class="research-img research-img--right">
+      <img src="images/slideshow/slide2.jpg" alt="Noise pollution research: placeholder image">
+    </div>
+    <p>To draw robust conclusions across species and systems, we use <a href="research-meta-analysis.html">meta-analytical approaches</a> that synthesise findings from studies worldwide, allowing us to identify broad patterns in how wildlife responds to human-induced change.</p>
+
+    <div class="clear"></div>
+    <div class="research-img research-img--left">
+      <img src="images/slideshow/slide3.jpg" alt="Queen's University Belfast research: placeholder image">
+    </div>
+    <p>Based at Queen's University Belfast, our group combines behavioural ecology, conservation biology, and quantitative methods to address some of the most pressing challenges facing wildlife today. Explore our <a href="research.html">research areas</a>, browse our <a href="publications.html">publications</a>, or <a href="contact.html">get in touch</a>.</p>
+
+    <div class="clear"></div>
+
+  </div>
+</div>
+```

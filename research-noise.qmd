@@ -1,0 +1,63 @@
+---
+title: ""
+pagetitle: "Global Change: Noise Pollution | Research | Hansjoerg Kunc"
+description: "Research on how anthropogenic noise affects animal behaviour, communication, and fitness across terrestrial and aquatic ecosystems. Hansjoerg Kunc, Queen's University Belfast."
+---
+
+```{=html}
+<div class="page-wrapper">
+  <div class="author-sidebar">
+    <div class="author-avatar">
+      <img src="images/profile.jpg" alt="Hansjoerg Kunc">
+    </div>
+    <h3 class="author-name">Hansjoerg Kunc</h3>
+
+    <ul class="author-links">
+      <li class="location"><i class="fas fa-location-dot"></i>Belfast, UK</li>
+      <li class="institution"><i class="fas fa-building-columns"></i>Queen's University Belfast</li>
+      <li><a href="mailto:h.kunc@qub.ac.uk"><i class="fas fa-envelope"></i>Email</a></li>
+      <li><a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar"></i>Google Scholar</a></li>
+      <li><a href="https://orcid.org/0000-0000-0000-0000"><i class="ai ai-orcid"></i>ORCID</a></li>
+      <li><a href="https://www.researchgate.net/profile/Hansjoerg-Kunc"><i class="fab fa-researchgate"></i>ResearchGate</a></li>
+      <li><a href="https://github.com/hansjoergkunc"><i class="fab fa-github"></i>GitHub</a></li>
+      <li><a href="https://www.instagram.com/hansjoerg.kunc.1/"><i class="fab fa-instagram"></i>Instagram</a></li>
+    </ul>
+  </div>
+
+  <div class="main-content">
+    <h2 style="margin-top: 0;">Global Change: Noise Pollution</h2>
+
+    <p>Anthropogenic noise is one of the most pervasive yet underappreciated forms of environmental change. Traffic, shipping, construction, and industrial activity generate sound that penetrates virtually every habitat on Earth, from city parks to the deep ocean. Our research investigates how this global pollutant affects animal behaviour, communication, and fitness, with the aim of understanding the full scope of its biological consequences and informing mitigation strategies.</p>
+
+    <h3>Noise Affects Behaviour Across Sensory Modalities</h3>
+    <div class="research-img research-img--right">
+      <img src="images/slideshow/slide2.jpg" alt="Marine noise research: placeholder image">
+    </div>
+    <p>One of our most striking findings is that noise does not only affect hearing. It disrupts behaviour across multiple sensory channels. Working in the marine environment, we demonstrated that anthropogenic noise alters the behaviour of animals that do not primarily rely on acoustic communication. This cross-modal effect suggests that the biological impacts of noise pollution are far more widespread than previously assumed, affecting species and behaviours that were not considered vulnerable. Our work on sea turtles further showed that anthropogenic noise predicts behavioural responses in marine reptiles, a group rarely studied in the context of noise pollution.</p>
+
+    <div class="clear"></div>
+    <h3>Disrupting Communication and Social Behaviour</h3>
+    <div class="research-img research-img--left">
+      <img src="images/slideshow/slide3.jpg" alt="Communication disruption research: placeholder image">
+    </div>
+    <p>Noise can mask acoustic signals, forcing animals to change how they communicate. We showed that experimentally increased noise levels cause birds to change both their spatial behaviour and their singing patterns. In cichlid fish, noise alters fundamental behaviours including foraging and sheltering, not just communication. Importantly, noise also disrupts how animals interact: vocal exchanges between neighbouring territory holders are affected by anthropogenic noise, potentially altering the dynamics of territorial systems. We found that noise interferes with how fighting fish assess opponents during contests. Signal complexity, which normally communicates aggressive intent, is disrupted under noisy conditions, and noise changes how animals evaluate resources during territorial disputes.</p>
+
+    <div class="clear"></div>
+    <h3>From Terrestrial to Aquatic Systems</h3>
+    <div class="research-img research-img--right">
+      <img src="images/slideshow/slide1.jpg" alt="Aquatic noise research: placeholder image">
+    </div>
+    <p>Our research spans both terrestrial and aquatic environments, reflecting the fact that noise pollution is a truly global problem. We published a synthesis arguing that aquatic noise pollution has consequences that extend beyond individual animals to populations and ecosystems. Underwater noise from shipping, sonar, and construction can propagate over vast distances, and many aquatic organisms, from fish to invertebrates, are sensitive to these disturbances. We demonstrated that even invertebrates, which were long overlooked in noise research, show measurable behavioural responses to anthropogenic noise, including altered resource assessment.</p>
+
+    <div class="clear"></div>
+    <h3>Phenotypic Plasticity and Behavioural Adjustment</h3>
+    <div class="research-img research-img--left">
+      <img src="images/slideshow/slide2.jpg" alt="Behavioural plasticity research: placeholder image">
+    </div>
+    <p>A recurring theme in our work is the question of whether animals can adjust to noise through behavioural plasticity. We showed that phenotypic plasticity affects how a sexually selected trait, song in birds, responds to anthropogenic noise. While some degree of adjustment is possible, such plasticity comes with potential costs: signals modified to cope with noise may be less effective at attracting mates or deterring rivals. Understanding the limits of plastic responses is critical for predicting which species can cope with increasing noise levels and which cannot.</p>
+
+    <div class="clear"></div>
+    <p style="margin-top: 1.5rem;"><a href="research.html">&larr; Back to Research Overview</a></p>
+  </div>
+</div>
+```

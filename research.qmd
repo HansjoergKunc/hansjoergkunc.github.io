@@ -1,0 +1,77 @@
+---
+title: ""
+pagetitle: "Research | Hansjoerg Kunc"
+description: "Research by Hansjoerg Kunc on animal communication, noise pollution, and meta-analysis at Queen's University Belfast."
+---
+
+```{=html}
+<div class="page-wrapper">
+  <div class="author-sidebar">
+    <div class="author-avatar">
+      <img src="images/profile.jpg" alt="Hansjoerg Kunc">
+    </div>
+    <h3 class="author-name">Hansjoerg Kunc</h3>
+
+
+    <ul class="author-links">
+      <li class="location"><i class="fas fa-location-dot"></i>Belfast, UK</li>
+      <li class="institution"><i class="fas fa-building-columns"></i>Queen's University Belfast</li>
+      <li><a href="mailto:h.kunc@qub.ac.uk"><i class="fas fa-envelope"></i>Email</a></li>
+      <li><a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar"></i>Google Scholar</a></li>
+      <li><a href="https://orcid.org/0000-0000-0000-0000"><i class="ai ai-orcid"></i>ORCID</a></li>
+      <li><a href="https://www.researchgate.net/profile/Hansjoerg-Kunc"><i class="fab fa-researchgate"></i>ResearchGate</a></li>
+      <li><a href="https://github.com/hansjoergkunc"><i class="fab fa-github"></i>GitHub</a></li>
+      <li><a href="https://www.instagram.com/hansjoerg.kunc.1/"><i class="fab fa-instagram"></i>Instagram</a></li>
+    </ul>
+  </div>
+
+  <div class="main-content">
+    <h2 style="margin-top: 0;">Research</h2>
+    <p>My research focuses on understanding how animals cope with environmental change. I use a combination of field experiments, laboratory studies, and meta-analytical approaches.</p>
+
+    <div class="research-areas-grid">
+
+      <a href="research-meta-analysis.html" class="research-area-card research-area--meta">
+        <div class="research-area-card__image">
+          <div class="research-area-card__placeholder">
+            <i class="fas fa-chart-line"></i>
+          </div>
+        </div>
+        <div class="research-area-card__body">
+          <div class="research-area-card__icon"><i class="fas fa-chart-line"></i></div>
+          <h3 class="research-area-card__title">Research Synthesis:<br>Meta-Analysis</h3>
+          <p class="research-area-card__desc">Using quantitative synthesis methods to combine evidence across studies for more robust ecological and evolutionary conclusions.</p>
+          <span class="research-area-card__link">Explore this research &rarr;</span>
+        </div>
+      </a>
+
+      <a href="research-noise.html" class="research-area-card research-area--noise">
+        <div class="research-area-card__image">
+          <img src="images/slideshow/slide1.jpg" alt="Noise pollution research">
+          <div class="research-area-card__image-overlay"></div>
+        </div>
+        <div class="research-area-card__body">
+          <div class="research-area-card__icon"><i class="fas fa-volume-high"></i></div>
+          <h3 class="research-area-card__title">Global Change:<br>Noise Pollution</h3>
+          <p class="research-area-card__desc">Examining how anthropogenic noise affects animal communication, behaviour, and ultimately fitness across terrestrial and aquatic systems.</p>
+          <span class="research-area-card__link">Explore this research &rarr;</span>
+        </div>
+      </a>
+
+      <a href="research-communication.html" class="research-area-card research-area--comm">
+        <div class="research-area-card__image">
+          <img src="images/slideshow/slide3.jpg" alt="Animal communication research">
+          <div class="research-area-card__image-overlay"></div>
+        </div>
+        <div class="research-area-card__body">
+          <div class="research-area-card__icon"><i class="fas fa-comments"></i></div>
+          <h3 class="research-area-card__title">Animal Communication</h3>
+          <p class="research-area-card__desc">Studying the evolution and function of acoustic signals, examining how ecological and social factors shape signal design.</p>
+          <span class="research-area-card__link">Explore this research &rarr;</span>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</div>
+```

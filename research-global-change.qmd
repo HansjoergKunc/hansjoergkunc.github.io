@@ -1,0 +1,44 @@
+---
+title: ""
+pagetitle: "Global Change Biology | Research | Hansjoerg Kunc"
+description: "Research on how climate change and habitat modification affect animal populations. Hansjoerg Kunc, Queen's University Belfast."
+---
+
+```{=html}
+<div class="page-wrapper">
+  <div class="author-sidebar">
+    <div class="author-avatar">
+      <img src="images/profile.jpg" alt="Hansjoerg Kunc">
+    </div>
+    <h3 class="author-name">Hansjoerg Kunc</h3>
+
+
+    <ul class="author-links">
+      <li class="location"><i class="fas fa-location-dot"></i>Belfast, UK</li>
+      <li class="institution"><i class="fas fa-building-columns"></i>Queen's University Belfast</li>
+      <li><a href="mailto:h.kunc@qub.ac.uk"><i class="fas fa-envelope"></i>Email</a></li>
+      <li><a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar"></i>Google Scholar</a></li>
+      <li><a href="https://orcid.org/0000-0000-0000-0000"><i class="ai ai-orcid"></i>ORCID</a></li>
+      <li><a href="https://www.researchgate.net/profile/Hansjoerg-Kunc"><i class="fab fa-researchgate"></i>ResearchGate</a></li>
+      <li><a href="https://github.com/hansjoergkunc"><i class="fab fa-github"></i>GitHub</a></li>
+      <li><a href="https://www.instagram.com/hansjoerg.kunc.1/"><i class="fab fa-instagram"></i>Instagram</a></li>
+    </ul>
+  </div>
+
+  <div class="main-content">
+    <h1>Global Change Biology</h1>
+
+    <p>Climate change and habitat modification are altering ecosystems at unprecedented rates. My research investigates how animals respond to these changes and how multiple stressors interact to affect populations.</p>
+
+    <h2>Key Research Questions</h2>
+    <ul>
+      <li>How do multiple environmental stressors interact to affect animal populations?</li>
+      <li>What makes some species more vulnerable to environmental change than others?</li>
+      <li>How can we predict and mitigate impacts of global change on wildlife?</li>
+      <li>What role does behavioural plasticity play in adapting to rapid environmental change?</li>
+    </ul>
+
+    <p><a href="research.html">&larr; Back to Research</a></p>
+  </div>
+</div>
+```

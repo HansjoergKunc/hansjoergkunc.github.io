@@ -1,0 +1,63 @@
+---
+title: ""
+pagetitle: "Animal Communication | Research | Hansjoerg Kunc"
+description: "Research on the evolution and plasticity of animal communication systems. Hansjoerg Kunc, Queen's University Belfast."
+---
+
+```{=html}
+<div class="page-wrapper">
+  <div class="author-sidebar">
+    <div class="author-avatar">
+      <img src="images/profile.jpg" alt="Hansjoerg Kunc">
+    </div>
+    <h3 class="author-name">Hansjoerg Kunc</h3>
+
+    <ul class="author-links">
+      <li class="location"><i class="fas fa-location-dot"></i>Belfast, UK</li>
+      <li class="institution"><i class="fas fa-building-columns"></i>Queen's University Belfast</li>
+      <li><a href="mailto:h.kunc@qub.ac.uk"><i class="fas fa-envelope"></i>Email</a></li>
+      <li><a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar"></i>Google Scholar</a></li>
+      <li><a href="https://orcid.org/0000-0000-0000-0000"><i class="ai ai-orcid"></i>ORCID</a></li>
+      <li><a href="https://www.researchgate.net/profile/Hansjoerg-Kunc"><i class="fab fa-researchgate"></i>ResearchGate</a></li>
+      <li><a href="https://github.com/hansjoergkunc"><i class="fab fa-github"></i>GitHub</a></li>
+      <li><a href="https://www.instagram.com/hansjoerg.kunc.1/"><i class="fab fa-instagram"></i>Instagram</a></li>
+    </ul>
+  </div>
+
+  <div class="main-content">
+    <h2 style="margin-top: 0;">Animal Communication</h2>
+
+    <p>Communication lies at the heart of animal behaviour. From the dawn song of nightingales to the begging calls of meerkat pups, acoustic signals mediate mate attraction, territory defence, parent/offspring interactions, and competitive encounters. Our research investigates how these signals evolve, how they function in natural social networks, and how flexible animals are in adjusting their communication when conditions change.</p>
+
+    <h3>Vocal Interactions and Social Networks</h3>
+    <div class="research-img research-img--right">
+      <img src="images/slideshow/slide1.jpg" alt="Nightingale research: placeholder image">
+    </div>
+    <p>Much of our early work focused on the common nightingale (<em>Luscinia megarhynchos</em>), one of Europe's most accomplished songsters. We showed that vocal interactions between territorial males carry real consequences: males that respond more aggressively to rivals during nocturnal singing bouts have higher pairing success, while paired males reduce their vocal investment after securing a mate. By studying dawn song across the breeding season, we demonstrated that song characteristics change systematically, reflecting shifts in the social and ecological pressures males face. We also discovered that non-territorial males prospect occupied territories during the dawn chorus, using the information contained in these vocal displays to assess potential rivals and settlement options. This body of work revealed that communication networks, where multiple individuals simultaneously signal and eavesdrop, are a key feature of acoustic signalling systems.</p>
+
+    <div class="clear"></div>
+    <h3>Begging and Parent/Offspring Communication</h3>
+    <div class="research-img research-img--left">
+      <img src="images/slideshow/slide2.jpg" alt="Meerkat research: placeholder image">
+    </div>
+    <p>Our research on cooperative breeders, particularly meerkats (<em>Suricata suricatta</em>), explored how offspring communicate their needs to caregivers. We investigated the evolution of begging signals in a mobile feeding system, where pups follow foraging groups rather than waiting at a fixed nest. We found that different call types serve distinct functions in this context, and that pups show sophisticated strategies in how they direct their begging, targeting helpers that feed at higher rates. We also examined why pups eventually stop begging as they grow older, and how sex differences in responsiveness to begging calls shape helper behaviour. This work highlighted the complexity of parent/offspring and carer/offspring communication in social species.</p>
+
+    <div class="clear"></div>
+    <h3>Signal Complexity and Contest Behaviour</h3>
+    <div class="research-img research-img--right">
+      <img src="images/slideshow/slide3.jpg" alt="Contest behaviour research: placeholder image">
+    </div>
+    <p>Animal signals are often complex, combining multiple components that convey different types of information. We studied Siamese fighting fish (<em>Betta splendens</em>) to understand how signal complexity communicates aggressive intent during contests. Using an integrative analysis approach, we showed that fish assess each other through a combination of visual displays and behavioural signals, and that the complexity of these strategies plays a crucial role in determining contest outcomes.</p>
+
+    <div class="clear"></div>
+    <h3>Acoustic Signals and Personality</h3>
+    <div class="research-img research-img--left">
+      <img src="images/slideshow/slide1.jpg" alt="Animal personality research: placeholder image">
+    </div>
+    <p>Individual animals differ consistently in their behaviour, a phenomenon often referred to as animal personality. We investigated whether these individual differences are reflected in vocal signals, using domestic pigs as a model system. We demonstrated that vocalisations carry information about the caller's personality traits, and that the acoustic structure of calls differs systematically between positive and negative contexts, with call duration being a reliable predictor. These findings suggest that vocal signals may provide a non-invasive tool for assessing animal welfare.</p>
+
+    <div class="clear"></div>
+    <p style="margin-top: 1.5rem;"><a href="research.html">&larr; Back to Research Overview</a></p>
+  </div>
+</div>
+```

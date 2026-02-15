@@ -1,0 +1,58 @@
+---
+title: ""
+pagetitle: "News | Hansjoerg Kunc"
+description: "Latest news and updates from Hansjoerg Kunc's research group at Queen's University Belfast."
+---
+
+```{=html}
+<div class="page-wrapper">
+  <div class="author-sidebar">
+    <div class="author-avatar">
+      <img src="images/profile.jpg" alt="Hansjoerg Kunc">
+    </div>
+    <h3 class="author-name">Hansjoerg Kunc</h3>
+
+
+    <ul class="author-links">
+      <li class="location"><i class="fas fa-location-dot"></i>Belfast, UK</li>
+      <li class="institution"><i class="fas fa-building-columns"></i>Queen's University Belfast</li>
+      <li><a href="mailto:h.kunc@qub.ac.uk"><i class="fas fa-envelope"></i>Email</a></li>
+      <li><a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar"></i>Google Scholar</a></li>
+      <li><a href="https://orcid.org/0000-0000-0000-0000"><i class="ai ai-orcid"></i>ORCID</a></li>
+      <li><a href="https://www.researchgate.net/profile/Hansjoerg-Kunc"><i class="fab fa-researchgate"></i>ResearchGate</a></li>
+      <li><a href="https://github.com/hansjoergkunc"><i class="fab fa-github"></i>GitHub</a></li>
+      <li><a href="https://www.instagram.com/hansjoerg.kunc.1/"><i class="fab fa-instagram"></i>Instagram</a></li>
+    </ul>
+  </div>
+
+  <div class="main-content">
+    <h1>News & Updates</h1>
+
+    <div class="news-timeline">
+      <div class="news-card">
+        <div class="news-card__date-col">
+          <div class="news-card__month">Jan</div>
+          <div class="news-card__year">2025</div>
+        </div>
+        <div class="news-card__body">
+          <h3 class="news-card__title">Website Launch</h3>
+          <p class="news-card__text">Welcome to my new academic website! Here I will share updates about my research, publications, and other professional activities.</p>
+          <div class="news-card__tags">
+            <span class="news-tag">Announcement</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="news-card news-card--placeholder">
+        <div class="news-card__date-col">
+          <div class="news-card__month">&bull;</div>
+        </div>
+        <div class="news-card__body">
+          <p class="news-card__text" style="color: #7d776f; font-style: italic;">More updates coming soon. Check back for news about publications, conferences, and lab activities.</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+```

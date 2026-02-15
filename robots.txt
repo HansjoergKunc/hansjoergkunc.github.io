@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hansjoergkunc.github.io/sitemap.xml

@@ -1,0 +1,64 @@
+---
+title: ""
+pagetitle: "Contact | Hansjoerg Kunc"
+description: "Contact Hansjoerg Kunc at Queen's University Belfast. PhD opportunities in animal behaviour, noise pollution, and conservation biology."
+---
+
+```{=html}
+<div class="page-wrapper">
+  <div class="author-sidebar">
+    <div class="author-avatar">
+      <img src="images/profile.jpg" alt="Hansjoerg Kunc">
+    </div>
+    <h3 class="author-name">Hansjoerg Kunc</h3>
+
+
+    <ul class="author-links">
+      <li class="location"><i class="fas fa-location-dot"></i>Belfast, UK</li>
+      <li class="institution"><i class="fas fa-building-columns"></i>Queen's University Belfast</li>
+      <li><a href="mailto:h.kunc@qub.ac.uk"><i class="fas fa-envelope"></i>Email</a></li>
+      <li><a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar"></i>Google Scholar</a></li>
+      <li><a href="https://orcid.org/0000-0000-0000-0000"><i class="ai ai-orcid"></i>ORCID</a></li>
+      <li><a href="https://www.researchgate.net/profile/Hansjoerg-Kunc"><i class="fab fa-researchgate"></i>ResearchGate</a></li>
+      <li><a href="https://github.com/hansjoergkunc"><i class="fab fa-github"></i>GitHub</a></li>
+      <li><a href="https://www.instagram.com/hansjoerg.kunc.1/"><i class="fab fa-instagram"></i>Instagram</a></li>
+    </ul>
+  </div>
+
+  <div class="main-content">
+    <h1>Contact</h1>
+
+    <div class="contact-info-grid">
+      <div class="contact-info-card">
+        <div class="contact-info-card__icon"><i class="fas fa-envelope"></i></div>
+        <div class="contact-info-card__label">Email</div>
+        <div class="contact-info-card__value"><a href="mailto:h.kunc@qub.ac.uk">h.kunc@qub.ac.uk</a></div>
+      </div>
+      <div class="contact-info-card">
+        <div class="contact-info-card__icon"><i class="fas fa-building-columns"></i></div>
+        <div class="contact-info-card__label">Office</div>
+        <div class="contact-info-card__value">School of Biological Sciences<br>Queen's University Belfast</div>
+      </div>
+      <div class="contact-info-card">
+        <div class="contact-info-card__icon"><i class="fas fa-location-dot"></i></div>
+        <div class="contact-info-card__label">Address</div>
+        <div class="contact-info-card__value">19 Chlorine Gardens<br>Belfast BT9 5DL, UK</div>
+      </div>
+    </div>
+
+    <div class="phd-callout phd-callout--large">
+      <div class="phd-callout__icon"><i class="fas fa-graduation-cap"></i></div>
+      <div class="phd-callout__content">
+        <h2 class="phd-callout__title">PhD Opportunities</h2>
+        <p class="phd-callout__text">I am looking for motivated PhD students interested in animal behaviour, ecology, and conservation. If you are considering a PhD, please send me:</p>
+        <ul class="phd-callout__list">
+          <li>Your CV</li>
+          <li>A brief description of your research interests</li>
+          <li>Any relevant experience</li>
+        </ul>
+        <a href="mailto:h.kunc@qub.ac.uk" class="phd-callout__btn"><i class="fas fa-envelope"></i> Email me to discuss &rarr;</a>
+      </div>
+    </div>
+  </div>
+</div>
+```
