@@ -29,6 +29,12 @@ description: "Publications by Hansjoerg Kunc on noise pollution, animal communic
     <h2 style="margin-top: 0;">Publications</h2>
 
     <div class="publication-item">
+      <div class="pub-title">No experimental evidence for the role of trait-mediated interactions in a marine tri-trophic cascade</div>
+      <div class="pub-authors">Smith, S.D.G., <strong>Kunc, H.P.</strong> &amp; Collins, P.C.</div>
+      <div class="pub-journal">Journal of Experimental Marine Biology and Ecology (2026) 600: 152198. <a href="https://doi.org/10.1016/j.jembe.2026.152198">doi:10.1016/j.jembe.2026.152198</a></div>
+    </div>
+
+    <div class="publication-item">
       <div class="pub-title">Anthropogenic noise predicts sea turtle behavioural responses</div>
       <div class="pub-authors">Díaz, M.P., <strong>Kunc, H.P.</strong> &amp; Houghton, J.D.R.</div>
       <div class="pub-journal">Marine Pollution Bulletin (2024) 198: 115907</div>
