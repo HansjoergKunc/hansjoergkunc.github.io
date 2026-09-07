@@ -25,7 +25,7 @@ description: "PhD and postdoctoral opportunities in animal behaviour, noise poll
   </div>
 
   <div class="main-content">
-    <h1 style="margin-top: 0;">Join the Lab</h1>
+    <h1>Join the Lab</h1>
 
     <p>I welcome enquiries from prospective PhD students, and from postdoctoral researchers who would like to develop a fellowship application with me. Current projects use meta-analysis and other quantitative approaches to animal behaviour and ecology.</p>
 
