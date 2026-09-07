@@ -25,9 +25,25 @@ description: "PhD and postdoctoral opportunities in animal behaviour, noise poll
   </div>
 
   <div class="main-content">
-    <h2 style="margin-top: 0;">Join the Lab</h2>
+    <h1 style="margin-top: 0;">Join the Lab</h1>
 
-    <p>Content coming soon.</p>
+    <p>I welcome enquiries from prospective PhD students, and from postdoctoral researchers who would like to develop a fellowship application with me. Current projects use meta-analysis and other quantitative approaches to animal behaviour and ecology.</p>
+
+    <p>Most positions depend on securing funding, so please get in touch early.</p>
+
+    <div class="phd-callout phd-callout--large">
+      <div class="phd-callout__icon"><i class="fas fa-graduation-cap"></i></div>
+      <div class="phd-callout__content">
+        <h2 class="phd-callout__title">How to apply</h2>
+        <p class="phd-callout__text">Email me with:</p>
+        <ul class="phd-callout__list">
+          <li>Your CV</li>
+          <li>A short statement of your research interests</li>
+          <li>Relevant experience, including any work with R or meta-analysis</li>
+        </ul>
+        <a href="mailto:h.kunc@qub.ac.uk" class="phd-callout__btn"><i class="fas fa-envelope"></i> Email me to discuss &rarr;</a>
+      </div>
+    </div>
 
   </div>
 </div>
