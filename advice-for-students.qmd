@@ -27,7 +27,9 @@ description: "Tips and advice for students interested in research careers in eco
   <div class="main-content">
     <h2 style="margin-top: 0;">Advice for Students</h2>
 
-    <p>Content coming soon.</p>
+    <p>More will follow here. For now, one document I recommend to anyone starting in research:</p>
+
+    <p><a href="files/clutton-brock-2000-survival-strategies-for-scientists.pdf"><i class="fas fa-file-pdf"></i> Survival Strategies for Scientists</a> (PDF). Tim Clutton-Brock, 2000. Concise notes on writing grants, papers, and talks. Reproduced here with attribution; copyright remains with the author.</p>
 
   </div>
 </div>

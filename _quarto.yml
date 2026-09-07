@@ -4,6 +4,7 @@ project:
   resources:
     - robots.txt
     - CNAME
+    - files/
 
 website:
   title: "Hansjoerg Kunc"
