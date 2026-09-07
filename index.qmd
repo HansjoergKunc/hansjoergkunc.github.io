@@ -30,22 +30,12 @@ description: "Hansjoerg Kunc - Senior Lecturer at Queen's University Belfast res
 
     <h2 style="margin-top: 0;">Animal Behaviour in a Changing World</h2>
 
-    <div class="research-img research-img--left">
-      <img src="images/slideshow/slide1.jpg" alt="Animal communication research: placeholder image">
-    </div>
-    <p>We study how animals respond to the rapid environmental changes caused by human activities. A central focus of our work is <a href="research-communication.html">animal communication</a>, specifically how signals evolve, function, and adapt when the world around them changes. We are particularly interested in how <a href="research-noise.html">anthropogenic noise</a> disrupts communication and behaviour across terrestrial and aquatic systems.</p>
-
-    <div class="clear"></div>
     <div class="research-img research-img--right">
-      <img src="images/slideshow/slide2.jpg" alt="Noise pollution research: placeholder image">
+      <img src="images/slideshow/slide2.jpg" alt="Kunc lab research">
     </div>
-    <p>To draw robust conclusions across species and systems, we use <a href="research-meta-analysis.html">meta-analytical approaches</a> that synthesise findings from studies worldwide, allowing us to identify broad patterns in how wildlife responds to human-induced change.</p>
+    <p>In our lab we study how animals respond to human-induced environmental change. Our current work is mainly <a href="research-meta-analysis.html">meta-analytic</a>: we synthesise studies from across species and systems to find general patterns, with a particular focus on the effects of <a href="research-noise.html">anthropogenic noise</a>.</p>
 
-    <div class="clear"></div>
-    <div class="research-img research-img--left">
-      <img src="images/slideshow/slide3.jpg" alt="Queen's University Belfast research: placeholder image">
-    </div>
-    <p>Based at Queen's University Belfast, our group combines behavioural ecology, conservation biology, and quantitative methods to address some of the most pressing challenges facing wildlife today. Explore our <a href="research.html">research areas</a>, browse our <a href="publications.html">publications</a>, or <a href="contact.html">get in touch</a>.</p>
+    <p>This work combines behavioural ecology, conservation biology, and quantitative synthesis. We are based at Queen's University Belfast. See our <a href="research.html">research</a> and <a href="publications.html">publications</a>, or <a href="contact.html">get in touch</a>.</p>
 
     <div class="clear"></div>
 
