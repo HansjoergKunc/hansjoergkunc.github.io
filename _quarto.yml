@@ -35,6 +35,9 @@ website:
     foreground: "#b0aaa3"
     center: "© 2025 Hansjoerg Kunc"
 
+filters:
+  - _filters/seo.lua
+
 format:
   html:
     theme:

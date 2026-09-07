@@ -1,6 +1,6 @@
 ---
 title: ""
-pagetitle: "Research | Hansjoerg Kunc"
+pagetitle: "Research"
 description: "Research by Hansjoerg Kunc on animal communication, noise pollution, and meta-analysis at Queen's University Belfast."
 ---
 
@@ -17,7 +17,7 @@ description: "Research by Hansjoerg Kunc on animal communication, noise pollutio
       <li class="location"><i class="fas fa-location-dot"></i>Belfast, UK</li>
       <li class="institution"><i class="fas fa-building-columns"></i>Queen's University Belfast</li>
       <li><a href="mailto:h.kunc@qub.ac.uk"><i class="fas fa-envelope"></i>Email</a></li>
-      <li><a href="https://scholar.google.com/citations?user=XXXXXXX"><i class="ai ai-google-scholar"></i>Google Scholar</a></li>
+      <li><a href="https://scholar.google.com/citations?user=Cy-kscYAAAAJ&hl=en"><i class="ai ai-google-scholar"></i>Google Scholar</a></li>
       <li><a href="https://orcid.org/0000-0003-4709-1352"><i class="ai ai-orcid"></i>ORCID</a></li>
       <li><a href="https://www.researchgate.net/profile/Hansjoerg-Kunc"><i class="fab fa-researchgate"></i>ResearchGate</a></li>
       <li><a href="https://github.com/hansjoergkunc"><i class="fab fa-github"></i>GitHub</a></li>
