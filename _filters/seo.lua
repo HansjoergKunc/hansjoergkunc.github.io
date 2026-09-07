@@ -45,7 +45,6 @@ function Pandoc(doc)
     "https://orcid.org/0000-0003-4709-1352",
     "https://scholar.google.com/citations?user=Cy-kscYAAAAJ&hl=en",
     "https://pure.qub.ac.uk/en/persons/hansjoerg-kunc/",
-    "https://www.researchgate.net/profile/Hansjoerg-Kunc",
     "https://github.com/hansjoergkunc"
   ]
 }
