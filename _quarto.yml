@@ -3,10 +3,11 @@ project:
   output-dir: docs
   resources:
     - robots.txt
+    - CNAME
 
 website:
   title: "Hansjoerg Kunc"
-  site-url: https://hansjoergkunc.github.io
+  site-url: https://hansjoergkunc.com
   description: "Hansjoerg Kunc - Senior Lecturer at Queen's University Belfast researching animal communication, noise pollution, and global change biology."
   open-graph: true
   twitter-card: true

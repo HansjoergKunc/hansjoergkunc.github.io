@@ -21,3 +21,6 @@ Thumbs.db
 *.temp
 
 **/*.quarto_ipynb
+
+# Claude Code
+.claude/
